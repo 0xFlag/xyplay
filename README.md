@@ -4,7 +4,7 @@
 编程软件：Android studio 3.5.2</br>
 </br>
 部分代码注释：</br>
-AndroidManifest.xml</br>
+AndroidManifest.xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 </br>
 开启网络权限</br>
