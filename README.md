@@ -3,14 +3,12 @@
 </br>
 编程语言：Java</br>
 编程软件：Android studio 3.5.2</br>
-</br>
-部分代码注释：</br>
+</br>部分代码注释：</br>
 AndroidManifest.xml
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
-</br>
-开启网络权限</br>
+</br>开启网络权限</br>
 android:hardwareAccelerated="true"
-开启硬件加速</br>
+</br>开启硬件加速</br>
 android:configChanges="orientation|keyboardHidden|navigation|screenSize"
 </br>
 android:screenOrientation="sensor"
@@ -21,8 +19,7 @@ MainActivity.java</br>
 webView.loadUrl("localhost");
 </br>
 WebView加载网址</br>
-</br>
-styles.xml
+</br>styles.xml</br>
 <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 </br>
 无标题栏
