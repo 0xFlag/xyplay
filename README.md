@@ -19,7 +19,7 @@ MainActivity.java</br>
 webView.loadUrl("localhost");
 </br>
 WebView加载网址</br>
-</br>styles.xml</br>
+</br>styles.xml
 <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 </br>
 无标题栏
