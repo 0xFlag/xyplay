@@ -10,7 +10,7 @@ AndroidManifest.xml
 </br>
 开启网络权限</br>
 android:hardwareAccelerated="true"
-</br>
+开启硬件加速</br>
 android:configChanges="orientation|keyboardHidden|navigation|screenSize"
 </br>
 android:screenOrientation="sensor"
